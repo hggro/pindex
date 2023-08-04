@@ -10,49 +10,10 @@
 
 
 
-## YuIndex 是什么？
-
-一个很特别的浏览器主页，支持使用输入命令的方式来操作，目标是帮你在一个 web 终端中高效完成所有的事情！（all in one）
-
-此外，它也是一个功能强大的 web 终端组件。开发者可以在它的基础上定制自己的 web 终端，并且可以在终端中集成任何内容！
-
-> 如果你是一名程序员，相信你会爱上它~
 
 
 
-你可以将音乐、游戏，甚至可以将自己的偶像封装到主页~
 
-![](./doc/assets/docpic3.png)
-
-![](./doc/assets/docpic4.png)
-
-
-
-### 1 分钟上手使用
-
-请打开网站：https://yuindex.com
-
-然后在网站内依次输入以下命令：
-
-```bash
-baidu 程序员鱼皮
-github yuindex
-goto yupi.icu
-todo
-music 坤坤
-moyu
-按键 Ctrl + O 触发折叠, 再按可展开
-history
-按键 Ctrl + L 清屏
-```
-
-使用  `help 命令英文名` 可以查询某命令的具体用法，如：`help search` 。
-
-使用 `shortcut` 可以查看所有的快捷键。
-
-> 完整命令用法请见：[命令手册](./doc/commands.md)
-
-尽情探索吧~
 
 
 
